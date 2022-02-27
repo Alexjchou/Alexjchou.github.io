@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Alex HOU
 
 # Your name to show in the footer
-author: Some Person
+author: Alex HOU
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Home Page: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Beautiful Jekyll: "https://alexjchou.github.io/"
+    - Learn markdown: "https://alexjchou.github.io/"
+  Author's home: "https://alexjchou.github.io/"
 
 # --- Logo --- #
 
