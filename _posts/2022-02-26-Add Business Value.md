@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: How Data Analytics to Add Values to the Business
@@ -8,7 +7,6 @@ thumbnail-img: /assets/img/data.jpg
 share-img: /assets/img/data.jpg
 tags: [Profile, Experience, Data, Business Intelligence, Business Analytics, Machine Learning]
 ---
-
 # Data & Analytic To Drive Direct Business Impacts
 > It's important for Data & Analytics Function to have clear roadmap how to directly drive the business outputs, especially in those 6 areas:
 >> 1. Gain the Market Share
