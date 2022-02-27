@@ -14,7 +14,7 @@ author: Alex HOU
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "cv"
   Data Architecture:
     - Data Management: "https://alexjchou.github.io/"
     - Analytic Architecture: "https://alexjchou.github.io/"
