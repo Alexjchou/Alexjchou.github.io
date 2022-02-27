@@ -1,3 +1,13 @@
+---
+layout: post
+title: My Profile
+subtitle: This is My Data Analytics Journey
+cover-img: /assets/img/data_analytics.jpg
+thumbnail-img: /assets/img/data_analytics.jpg
+share-img: /assets/img/data_analytics.jpg
+tags: [Profile, Experience, Data, Business Intelligence, Business Analytics, Machine Learning]
+---
+
 ![data-analytics-PI009__FocusFillWzE5MjAsODQ5LCJ5IiwxNTJd](https://user-images.githubusercontent.com/23344558/153456352-73c4eb68-1e3e-4a80-8120-587cdee42208.jpg)
 # Summary
 > [Data and Analytics Professional](https://www.linkedin.com/in/alexjchou/) with 12 Years multi-geographic working experiences cross Banking Industry and Commercial Real Estate Industry, with 4 key data analytics capabilities to provide faster data-driven decision making and drive analytical revenue.
