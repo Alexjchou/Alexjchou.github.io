@@ -17,28 +17,16 @@ navbar-links:
   About Me: "aboutme"
   Solutions:
     - Data Architecture:
-      - Data Management: "https://alexjchou.github.io/"
-      - Analytic Architecture: "https://alexjchou.github.io/"
     - Business Analytics:
-      - Sales Analytics: "https://alexjchou.github.io/"
-      - Customer Analytics: "https://alexjchou.github.io/"
     - Machine Learning:
-      - Propensity Model: "https://alexjchou.github.io/"
-      - Customer Clustering: "https://alexjchou.github.io/"
     - Data-Driven Strategies:
-      - Propensity Model: "https://alexjchou.github.io/"
-      - Customer Clustering: "https://alexjchou.github.io/" 
-   Industry:
+  Industry:
     - Financial Industry:
     - Commercial Real Estate Industry:
-   Tools:
+  Tools:
     - Cloud Data Analytic Platform:
-      - Azure DataBricks:
-      - Azure DevOps:
     - Data Visualizations:
-      - Tableau:
-      - Qlik Sense:
-    Programming:
+  Programming:
     - Python:
     - PySpark:
     - SAS(Statistic Analytic Software):
