@@ -14,12 +14,16 @@ author: Alex HOU
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home Page: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://alexjchou.github.io/"
-    - Learn markdown: "https://alexjchou.github.io/"
-  Author's home: "https://alexjchou.github.io/"
-
+  About Me: "aboutme"
+  Data Architecture:
+    - Data Management: "https://alexjchou.github.io/"
+    - Analytic Architecture: "https://alexjchou.github.io/"
+  Business Analytics:
+    - Sales Analytics: "https://alexjchou.github.io/"
+    - Customer Analytics: "https://alexjchou.github.io/"
+  Machine Learning Applications:
+    - Propensity Model: "https://alexjchou.github.io/"
+    - Customer Clustering: "https://alexjchou.github.io/"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
