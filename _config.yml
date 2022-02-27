@@ -14,19 +14,38 @@ author: Alex HOU
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "cv"
-  Data Architecture:
-    - Data Management: "https://alexjchou.github.io/"
-    - Analytic Architecture: "https://alexjchou.github.io/"
-  Business Analytics:
-    - Sales Analytics: "https://alexjchou.github.io/"
-    - Customer Analytics: "https://alexjchou.github.io/"
-  Machine Learning:
-    - Propensity Model: "https://alexjchou.github.io/"
-    - Customer Clustering: "https://alexjchou.github.io/"
-  Data-Driven Strategies:
-    - Propensity Model: "https://alexjchou.github.io/"
-    - Customer Clustering: "https://alexjchou.github.io/" 
+  About Me: "aboutme"
+  Solutions:
+    - Data Architecture:
+      - Data Management: "https://alexjchou.github.io/"
+      - Analytic Architecture: "https://alexjchou.github.io/"
+    - Business Analytics:
+      - Sales Analytics: "https://alexjchou.github.io/"
+      - Customer Analytics: "https://alexjchou.github.io/"
+    - Machine Learning:
+      - Propensity Model: "https://alexjchou.github.io/"
+      - Customer Clustering: "https://alexjchou.github.io/"
+    - Data-Driven Strategies:
+      - Propensity Model: "https://alexjchou.github.io/"
+      - Customer Clustering: "https://alexjchou.github.io/" 
+   Industry:
+    - Financial Industry:
+    - Commercial Real Estate Industry:
+   Tools:
+    - Cloud Data Analytic Platform:
+      - Azure DataBricks:
+      - Azure DevOps:
+    - Data Visualizations:
+      - Tableau:
+      - Qlik Sense:
+    Programming:
+    - Python:
+    - PySpark:
+    - SAS(Statistic Analytic Software):
+    - R:
+    - SQL:
+  Contact Me: "aboutme"
+    
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
