@@ -2,9 +2,9 @@
 layout: post
 title: How Data Analytics to Add Values to the Business
 subtitle: Data Analytics Function can drive business values via 6 approaches.
-cover-img: /assets/img/data.jpg
-thumbnail-img: /assets/img/data.jpg
-share-img: /assets/img/data.jpg
+cover-img: /assets/img/biz_revenue.jpg
+thumbnail-img: /assets/img/biz_revenue.jpg
+share-img: /assets/img/biz_revenue.jpg
 tags: [Profile, Experience, Data, Business Intelligence, Business Analytics, Machine Learning]
 ---
 
