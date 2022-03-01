@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Profile
+title: Aboue Me
 subtitle: This is My Data Analytics Journey
 cover-img: /assets/img/19622.jpg
 thumbnail-img: /assets/img/data_analytics.jpg
