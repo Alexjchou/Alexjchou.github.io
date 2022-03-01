@@ -16,7 +16,7 @@ author: Alex HOU
 navbar-links:
   About Me: "aboutme"
   Solutions:
-    - Data Architecture:
+    - Data Foundation:
     - Business Analytics:
     - Machine Learning:
     - Data-Driven Strategies:
@@ -24,15 +24,21 @@ navbar-links:
     - Financial Industry:
     - Commercial Real Estate Industry:
   Tools:
-    - Cloud Data Analytic Platform:
+    - Cloud Analytic Platform:
+    - Azure Databricks:
     - Data Visualizations:
+    - Tableau:
+    - Qlik Sense:
   Programming:
     - Python:
     - PySpark:
-    - SAS(Statistic Analytic Software):
+    - SAS:
     - R:
     - SQL:
-  Contact Me: "aboutme"
+  Blog:
+    - 2022:
+    - 2021:
+    - 2020: 
     
 # --- Logo --- #
 
