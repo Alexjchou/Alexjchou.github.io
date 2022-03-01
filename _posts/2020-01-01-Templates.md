@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample blog post
+title: Templates
 subtitle: Each post also has a subtitle
 gh-repo: Alexjchou/alexjchou.github.io/
 gh-badge: [star, fork, follow]
@@ -12,8 +12,11 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 
 # Here is a primary heading
+
 ## Here is a secondary heading
+
 **Here is some bold text**
+
 *Here is some Italic text*
 
 Here's a useless table:
